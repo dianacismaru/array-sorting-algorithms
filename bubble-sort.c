@@ -9,7 +9,6 @@
 // Function that sorts an array using Bubble Sort Algorithm
 static void sort(int n, int *arr)
 {
-	// TODO: add bubble sort algorithm here
 	bool ok;
 	do {
 		// Assume that the array is sorted
